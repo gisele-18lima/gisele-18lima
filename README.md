@@ -8,7 +8,7 @@
 
 ## Se conecte comigo!
 <a href="https://www.linkedin.com/in/giseleslima/" target="-blank">
-  <img aling="center" alt="Gisele-linkedin" height="30" width="30" src="https://i.pinimg.com/564x/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.jpg">
+  <img aling="center" alt="Gisele-linkedin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
 <a href="https://www.instagram.com/xl_silvestre/" target="-blank">
   <img aling="center" alt="Gisele-linkedin" height="30" width="30" src="https://i.pinimg.com/564x/ed/34/e9/ed34e9e48c3151264b34a39c6aef124f.jpg">
