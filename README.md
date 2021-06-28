@@ -1,6 +1,6 @@
 ### Olá, eu sou a Gisele :relaxed:
 
-- Eu moro no :brazil: , em São Paulo.
+- Eu moro no Brasil, em São Paulo.
 - Tenho 18 anos de idade :cupid:
 - Curso programação no Instituto Proa :computer:
 - Amo a área de Front-End :computer::revolving_hearts:
