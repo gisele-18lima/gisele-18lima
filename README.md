@@ -21,6 +21,8 @@
 <a><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
 <a><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"></a>
 
+![Snake animation](https://github.com/gisele-18lima/gisele-18lima/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
