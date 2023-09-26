@@ -1,10 +1,9 @@
 ### Olá, eu sou a Gisele :relaxed:
 
-- São Carlos- São Paulo.
 - Tenho 20 anos de idade :cupid:
-- Curso programação no Instituto Proa :computer:
-- Amo a área de Front-End :computer::revolving_hearts:
 - Cursando Física Computacional na USP :heavy_heart_exclamation::ringed_planet:
+- Formada em Desenvolvimento web pelo Instituto Proa :computer:
+- Amo a área de Front-End :computer::revolving_hearts:
 
 ## Se conecte comigo!
 <a href="https://www.linkedin.com/in/giseleslima/" target="-blank">
