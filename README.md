@@ -1,10 +1,10 @@
 ### Olá, eu sou a Gisele :relaxed:
 
-- Eu moro no Brasil, em São Paulo.
-- Tenho 18 anos de idade :cupid:
+- São Carlos- São Paulo.
+- Tenho 20 anos de idade :cupid:
 - Curso programação no Instituto Proa :computer:
 - Amo a área de Front-End :computer::revolving_hearts:
-- Apaixonada por Astronomia e Física :heavy_heart_exclamation::ringed_planet:
+- Cursando Física Computacional na USP :heavy_heart_exclamation::ringed_planet:
 
 ## Se conecte comigo!
 <a href="https://www.linkedin.com/in/giseleslima/" target="-blank">
